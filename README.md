@@ -20,5 +20,5 @@ npm start
 ```
 ![screenshot](public/screenShot.jpg)
 
-
+https://github.com/hahalin/MermaidViewer/blob/main/public/demo.mp4
 
