@@ -1,0 +1,8 @@
+graph TD;
+    A[開始] --> B{當日是否已經申請?}
+    B -->|Y| C[顯示錯誤訊息【當日已經申請】] --> E[End]
+    B -->|N| ChkCnt{特休數量足夠否?}
+    ChkCnt --> |N| ChkCntErr[顯示錯誤訊息【特休數量不足】]
+    ChkCntErr --> E
+    ChkCnt --> |Y| Process[進行下個流程節點]
+    Process --> E
