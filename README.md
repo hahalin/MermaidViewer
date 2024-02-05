@@ -1,5 +1,4 @@
 # MermaidViewer
-一個使用 React 開發的動態 Mermaid 圖表檢視應用程式。
 
 ## Description
 A dynamic Mermaid chart viewing widget developed with React, this project enables users to view various Mermaid chart files and convert them in real-time.Features include zooming in/out, exporting diagrams, and switching between different chart definitions.
