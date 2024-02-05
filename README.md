@@ -2,9 +2,9 @@
 一個使用 React 開發的動態 Mermaid 圖表檢視應用程式。
 
 ## Description
-A React application for dynamically rendering Mermaid charts. This project allows users to easily view and interact with various flowcharts and diagrams using the Mermaid library. Features include zooming in/out, exporting diagrams, and switching between different chart definitions.
+A dynamic Mermaid chart viewing widget developed with React, this project enables users to view various Mermaid chart files and convert them in real-time.Features include zooming in/out, exporting diagrams, and switching between different chart definitions.
 
-一個使用 React 開發的動態 Mermaid 圖表渲染應用程式。此專案讓使用者能夠輕鬆創建、查看及與各種流程圖和圖表進行互動，通過 Mermaid 圖表庫實現。
+一個使用 React 開發的動態 Mermaid 圖表檢視小工具程式，此專案讓使用者能夠查看各流程圖Mermaid檔並即時轉換。
 
 ## Features
 - Zoom in/out (放大/縮小)
