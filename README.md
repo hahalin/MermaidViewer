@@ -1,4 +1,4 @@
-# Project Name
+# MermaidViewer
 一個使用 React 開發的動態 Mermaid 圖表檢視應用程式。
 
 ## Description
